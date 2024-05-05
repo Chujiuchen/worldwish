@@ -1,0 +1,12 @@
+.nav {
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+:global(.test) {
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
