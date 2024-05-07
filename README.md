@@ -10,9 +10,8 @@ npm install
 
 ```
 npm run dev
-```
-
 npm run server
+```
 
 ## 3. 打包项目
 
